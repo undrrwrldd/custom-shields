@@ -2,8 +2,6 @@
 
 A client-side **Fabric** mod for **Minecraft 1.21.11** that lets you replace your shield texture with **any image** (PNG / JPG / JPEG / GIF / BMP / WEBP). Includes a full GUI to crop, scale and offset the image, plus saveable presets.
 
-> Developed by **@undrrwrldd**
-
 This mod targets **1.21.11**. To rebuild for another revision, change `minecraft_version`, `yarn_mappings` and `fabric_version` in `gradle.properties`.
 
 ## Features
