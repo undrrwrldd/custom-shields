@@ -37,4 +37,5 @@ The compiled mod jar will be in `build/libs/`. Drop it into your `mods/` folder 
 
 ## Credits
 
-- **@undrrwrldd** — developer
+- **@undrrwrldd**
+- my best friend claude
