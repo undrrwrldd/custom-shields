@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "dev.undrrwrldd.customshields.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ShieldModelRendererCaptureMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

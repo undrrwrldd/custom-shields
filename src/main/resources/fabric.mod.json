@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "customshields",
+  "version": "${version}",
+  "name": "Custom Shields",
+  "description": "Replace your shield texture with any image (PNG / JPG / GIF). GUI with crop, resize and presets.",
+  "authors": [ "@undrrwrldd" ],
+  "contact": {
+    "homepage": "https://github.com/undrrwrldd"
+  },
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [ "dev.undrrwrldd.customshields.client.CustomShieldsClient" ]
+  },
+  "mixins": [ "customshields.mixins.json" ],
+  "accessWidener": "customshields.accesswidener",
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "key.customshields.open": "Open Custom Shields GUI",
+  "category.customshields": "Custom Shields",
+  "customshields.gui.title": "Custom Shields  -  by @undrrwrldd",
+  "customshields.gui.pick": "Pick Image...",
+  "customshields.gui.clear": "Use Default",
+  "customshields.gui.save_preset": "Save Preset",
+  "customshields.gui.load_preset": "Load Preset",
+  "customshields.gui.delete_preset": "Delete",
+  "customshields.gui.apply": "Apply",
+  "customshields.gui.close": "Close",
+  "customshields.gui.scale": "Scale",
+  "customshields.gui.offset_x": "Offset X",
+  "customshields.gui.offset_y": "Offset Y",
+  "customshields.gui.preset_name": "Preset name"
+}
